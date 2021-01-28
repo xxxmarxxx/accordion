@@ -32,8 +32,8 @@ const questions = [
   {
     id: 6,
     title: 'I co dalej',
-    info:
-      'Locavore franzen fashion axe live-edge neutra irony synth af tilde shabby chic man braid chillwave waistcoat copper mug messenger bag. Banjo snackwave blog, microdosing thundercats migas vaporware viral lo-fi seitan ',
+    info: 
+      ' Maiores, porro saepe! Perferendis, obcaecati saepe placeat veritatis libero quibusdam accusantium ipsum perspiciatis laboriosam similique explicabo pariatur facere sit distinctio atque minus sequi dicta possimus et! Aperiam modi perspiciatis sunt! Rem accusantium, qui nemo odio voluptate non sint iusto ea doloremque ducimus eligendi quia quam quidem consequuntur ipsam quod deserunt nostrum vitae? Animi accusamus tempore nam, corrupti ea iste facere?',
   },
 ]
 export default questions
