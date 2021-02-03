@@ -20,3 +20,4 @@ const Component = () => {
   return <FaHome className='icon'></FaHome>;
 };
 ```
+![img](./assets/img.png)
